@@ -1,0 +1,31 @@
+_repo: The-Camp-Fire-Girls-on-Ellen-s-Isle--Or-The-Trail-of-the-Seven-Cedars_30825
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Frey, Hildegard G.
+    aliases:
+    - Frey, Hildegarde G.
+    - Frey, Hildegard G. (Hildegard Gertrude)
+    birthdate: 1891
+    deathdate: 1957
+    gutenberg_agent_id: '2241'
+    url: http://www.gutenberg.org/2009/agents/2241
+description: ''
+gutenberg_issued: '2010-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30825'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Camping -- Juvenile fiction'
+- !lcsh 'Vacations -- Juvenile fiction'
+- !lcsh 'Camp Fire Girls -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Camp Fire Girls on Ellen's Isle; Or, The Trail of the Seven Cedars
+url: http://www.gutenberg.org/ebooks/30825
